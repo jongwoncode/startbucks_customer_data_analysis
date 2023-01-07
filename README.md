@@ -3,7 +3,7 @@
 # 1. 프로젝트 정보
 * 😀 프로젝트 구성원 : 이종원(팀장), 김도환, 성호경, 이현우, 오승훈
 * 📆 프로젝트 기간  : 2021.06.01 ~ 2021.06.30
-* 🤖 주요 사용 기술  : python, tensorflow, keras, multi-processing
+* 🤖 주요 사용 기술  : python, pandas, numpy, matplotlib, seaborn, sql
 
 
 <br>
